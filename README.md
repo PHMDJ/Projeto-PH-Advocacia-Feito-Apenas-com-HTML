@@ -1,5 +1,9 @@
 # Projeto-PH-Advocacia-Feito-Apenas-com-HTML
 
+
+INDEX:
+
+
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -48,6 +52,129 @@
                     
                     </p>
             </td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                <h4>Todos Direitos Reservados</h4>
+
+            </td>
+        </tr>
+
+
+
+    </table>
+
+</body>
+
+</html>
+
+
+CONTATO:
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato</title>
+</head>
+
+<body background="./Imagens/fundo.pg">
+    <table border="0" width="1250" align="center">
+        <tr>
+
+            <td HEIGHT="0"> <img src="./Imagens/LOGO3.jpeg" alt="LOGO3" width="200"></td>
+
+            <td align="right">
+
+                <a href="index.html">Home</a> |
+                <a href="Quem Somos.html">Quem Somos</a> |
+                <a href="Contato.html">Contato</a>
+
+            </td>
+
+        </tr>
+
+
+
+        <tr>
+            <td colspan="2">
+                <h2 align="center"> Contato</h2>
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <p>Faça seu cadastro abaixo e aguarde um de nossos advogados entrar em contato com você</p>
+                <hr>
+
+                <form>
+                    Seu E-mail: <br>
+                    <input type="text"> <br>
+                    Assunto: <br>
+                    <input type="text"> <br>
+                    Descrição <br>
+                    <textarea></textarea> <br>
+                    <input type="submit">
+                </form>
+
+
+            </td>
+        </tr>
+
+
+
+
+
+    </table>
+
+</body>
+
+</html>
+
+
+
+QUEM SOMOS:
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quem Somos</title>
+</head>
+
+<body background="./Imagens/fundo.pg">
+    <table border="0" width="1250" align="center">
+        <tr>
+
+            <td HEIGHT="0"> <img src="./Imagens/LOGO3.jpeg" alt="LOGO3" width="200"></td>
+            
+            <td align="right"> 
+                
+                <a href="index.html">Home</a> |
+                <a href="Quem Somos.html">Quem Somos</a> |
+                <a href="Contato.html">Contato</a>
+            
+            </td>
+
+        </tr>
+
+       
+
+        <tr>
+            <td colspan="2">
+                <h2 align="center"> Quem Somos</h2>
+                <p>Nós somos um escritório que se orgulha de ter uma equipe qualificada, comprometida e ética, que busca a excelência no atendimento e na prestação de serviços jurídicos. Nós temos como missão defender os direitos e interesses de nossos clientes com eficiência, agilidade e transparência, buscando sempre as melhores soluções jurídicas. Nós temos como visão ser um escritório de referência nas áreas cível/empresarial e trabalhista, reconhecido pela qualidade, pela inovação e pela satisfação de nossos clientes. Nós temos como valores a honestidade, a responsabilidade, a confiança, a integridade, o respeito e a justiça.</p>
+
+                    <p>Nós nos destacamos pela nossa capacidade de adaptação às mudanças do mercado e às necessidades de nossos clientes, pela nossa utilização de tecnologias modernas e seguras, pela nossa comunicação clara e objetiva, pela nossa atuação preventiva e estratégica, e pela nossa constante atualização e aperfeiçoamento profissional. Nós já recebemos diversos prêmios e reconhecimentos pelo nosso trabalho, como por exemplo: o Prêmio Excelência e Qualidade Brasil 2022, o Selo de Qualidade OAB Recomenda 2021, o Troféu Destaque Empresarial 2020, entre outros. Nós também temos parcerias com renomadas instituições e entidades, como por exemplo: a Associação Comercial e Industrial de Campo Mourão, a Câmara de Dirigentes Lojistas de Campo Mourão, o Instituto Brasileiro de Direito Empresarial, entre outros.</p>
+                    
+                    </td>
         </tr>
         <tr>
             <td colspan="2" align="center">
