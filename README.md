@@ -1,8 +1,5 @@
 # Projeto-PH-Advocacia-Feito-Apenas-com-HTML
-
-
 INDEX:
-
 
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -68,9 +65,7 @@ INDEX:
 
 </html>
 
-
 CONTATO:
-
 
 <!DOCTYPE html>
 <html lang="en">
@@ -134,11 +129,7 @@ CONTATO:
 
 </html>
 
-
-
 QUEM SOMOS:
-
-
 
 <!DOCTYPE html>
 <html lang="en">
